@@ -1,0 +1,15 @@
+body {
+  background-color: #fefae0 !important;
+  max-width: 1200px;
+  margin: 0 auto !important;
+}
+
+h1 {
+  color: #d4a373;
+}
+
+a {
+  text-decoration: underline !important;
+  color: #d4a373 !important;
+  font-weight: 700;
+}
